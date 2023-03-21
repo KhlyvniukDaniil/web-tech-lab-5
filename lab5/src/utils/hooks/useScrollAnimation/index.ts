@@ -1,0 +1,1 @@
+export { default } from 'utils/hooks/useScrollAnimation/useScrollAnimation'

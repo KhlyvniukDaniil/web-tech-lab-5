@@ -1,0 +1,1 @@
+type fontMixin = (fontSizeInPx: number, color?: string, lineHeight?: number, isMob?: boolean) => string

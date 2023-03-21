@@ -1,0 +1,43 @@
+/* ===== Outfit ===== */
+@font-face {
+    font-family: 'Outfit Bold';
+    font-weight: 700;
+    src: local('Outfit-Bold.ttf'), url('assets/fonts/Outfit-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Outfit Medium';
+    font-weight: 500;
+    src: local('Outfit-Medium.ttf'), url('assets/fonts/Outfit-Medium.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Outfit Regular';
+    font-weight: 400;
+    src: local('Outfit-Regular.ttf'), url('assets/fonts/Outfit-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Outfit Light';
+    font-weight: 400;
+    src: local('Outfit-Light.ttf'), url('assets/fonts/Outfit-Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Outfit ExtraLight';
+    font-weight: 400;
+    src: local('Outfit-ExtraLight.ttf'), url('assets/fonts/Outfit-ExtraLight.ttf') format('truetype');
+}
+
+/* ===== Inter ===== */
+@font-face {
+    font-family: 'Inter Medium';
+    font-weight: 500;
+    src: local('Inter-Medium.otf'), url('assets/fonts/Inter-Medium.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Inter ExtraBold';
+    font-weight: 500;
+    src: local('Inter-ExtraBold.fft'), url('assets/fonts/Inter-ExtraBold.ttf') format('opentype');
+}
