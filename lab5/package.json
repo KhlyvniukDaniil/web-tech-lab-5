@@ -6,10 +6,13 @@
   "scripts": {
     "start": "vite",
     "build": "tsc && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "formik": "^2.2.9",
+    "gh-pages": "^5.0.0",
     "glsl-noise": "^0.0.0",
     "gsap": "^3.11.1",
     "path": "^0.12.7",
