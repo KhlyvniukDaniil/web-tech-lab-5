@@ -5,7 +5,7 @@ ____
 
 ## Локальний запуск:
 
-!!! node.js version 16 or higher must have !!!
+‼️ node.js version 16 or higher must have ‼️
  
 #### clone repository: 
     git clone https://github.com/KhlyvniukDaniil/web-tech-lab-5.git
