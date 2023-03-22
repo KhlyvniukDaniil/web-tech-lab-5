@@ -10,7 +10,7 @@ ____
 #### clone repository: 
     git clone https://github.com/KhlyvniukDaniil/web-tech-lab-5.git
 #### install packetges:     
-    yarn or npm install
+    npm install
 #### start the project:
-    yarn start or npm start
+    npm start
 
