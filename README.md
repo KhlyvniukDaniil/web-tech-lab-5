@@ -9,6 +9,8 @@ ____
  
 #### clone repository: 
     git clone https://github.com/KhlyvniukDaniil/web-tech-lab-5.git
+#### go to the project directory:
+    cd lab5
 #### install packetges:     
     npm install
 #### start the project:
